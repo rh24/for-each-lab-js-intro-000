@@ -1,5 +1,7 @@
 function iterativeLog(array) {
-  array.forEach()
+  array.forEach(element => {
+    console.log(`${index}: ${element}`);
+  })
 }
 
 function iterate() {
