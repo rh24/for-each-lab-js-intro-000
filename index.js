@@ -7,5 +7,5 @@ function iterativeLog(array) {
 function iterate(callback) {
   var candy = ['kit kat', 'skittles', 'snickers'];
 
-  
+  candy.forEach(callback)
 }
