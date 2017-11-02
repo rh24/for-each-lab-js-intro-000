@@ -11,6 +11,6 @@ function iterate(callback) {
   return candy;
 }
 
-function doToArray(array) {
-  
+function doToArray(array, callback) {
+
 }
