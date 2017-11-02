@@ -4,6 +4,10 @@ function iterativeLog(array) {
   });
 }
 
-function iterate(callback) {
+function callback {
+  
+}
 
+function iterate(callback) {
+  array()
 }
